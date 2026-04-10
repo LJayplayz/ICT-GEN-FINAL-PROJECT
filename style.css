@@ -1,0 +1,51 @@
+body {
+    background-color: #f5f5f5;
+    font-family: Arial, sans-serif;
+}
+
+/* Main Title */
+h1 {
+    color: #ff0000;
+}
+
+/* Section Headings */
+h2 {
+    color: #333;
+}
+
+/* Spacing between sections */
+.container {
+    margin-bottom: 40px;
+}
+
+/* Cards styling */
+.card {
+    border: 2px solid #ff0000;
+    border-radius: 15px;
+    transition: 0.3s;
+}
+
+/* Card hover effect */
+.card:hover {
+    transform: scale(1.05);
+}
+
+/* Card text */
+.card h5 {
+    font-size: 1.2rem;
+}
+
+/* Description text */
+p {
+    line-height: 1.6;
+}
+
+/* Navbar */
+.navbar {
+    height: 60px;
+}
+
+/* Centered content fix */
+.text-center {
+    text-align: center;
+}
